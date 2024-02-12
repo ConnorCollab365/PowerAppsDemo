@@ -13,6 +13,12 @@ Screen1 As screen:
         Y: =40
         ZIndex: =2
 
+    Label1 As label:
+        Text: ="Text"
+        X: =462
+        Y: =570
+        ZIndex: =2
+
     TextInput1_1 As text:
         Default: ="YAY!"
         X: =40
