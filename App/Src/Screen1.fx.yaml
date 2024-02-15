@@ -2,7 +2,7 @@ Screen1 As screen:
 
     Button1 As button:
         Fill: =RGBA(127, 178, 57, 1)
-        OnSelect: =Navigate(Screen3)
+        OnSelect: =Navigate(Screen3);Navigate(Screen1)
         Text: ="Jons Button"
         X: =612
         Y: =228
